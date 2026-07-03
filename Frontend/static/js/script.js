@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', () => {
     // Scroll Reveal for Feature Cards and Flow Steps
     const observerOptions = {
