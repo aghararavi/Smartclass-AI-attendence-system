@@ -10,7 +10,7 @@ An AI-powered attendance management system that automates classroom attendance u
 https://smartclass-ai-attendance-system.vercel.app/
 
 ### 🤖 Backend (Streamlit)
-https://smartclass-maian.streamlit.app/
+https://smartclass-mai.streamlit.app/
 
 ---
 
@@ -117,14 +117,6 @@ Attendance Stored in Supabase
 ↓
 
 Teacher Views Reports
-
----
-
-# 📸 Screenshots
-
-## Teacher Dashboard
-
-(Add Screenshot)
 
 ---
 
