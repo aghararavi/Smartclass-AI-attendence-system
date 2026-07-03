@@ -10,7 +10,7 @@ An AI-powered attendance management system that automates classroom attendance u
 https://smartclass-ai-attendence-system.vercel.app
 
 ### 🤖 Backend (Streamlit)
-https://smartclass-mai.streamlit.app/
+https://smartclass-ai-attendence-system.streamlit.app/
 
 ---
 
